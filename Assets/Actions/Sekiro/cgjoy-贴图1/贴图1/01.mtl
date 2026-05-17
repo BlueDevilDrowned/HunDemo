@@ -1,0 +1,16 @@
+newmtl Model001_Material001
+map_Kd WP_A_0310out.png
+map_bump W_noesisdupname_002.png
+
+newmtl Model001_Material002
+map_Kd WP_A_0310out.png
+map_bump W_noesisdupname_002.png
+
+newmtl Model001_Material003
+map_Kd W_noesisdupname_003.png
+map_bump W_noesisdupname_005.png
+
+newmtl Model001_Material004
+map_Kd WP_A_0310out.png
+map_bump W_noesisdupname_002.png
+

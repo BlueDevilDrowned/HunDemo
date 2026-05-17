@@ -1,0 +1,100 @@
+newmtl Model001_Material001
+map_Kd A_artificialarm_d.png
+map_bump A_artificialarm_n.png
+
+newmtl Model001_Material002
+map_Kd A_eyes1_d.png
+map_bump A_eyes1_n.png
+
+newmtl Model001_Material003
+map_Kd A_hairclip_d.png
+map_bump A_hairclip_n.png
+
+newmtl Model001_Material004
+map_Kd A_handlw_d.png
+map_bump A_handlw_n.png
+
+newmtl Model001_Material005
+map_Kd A_hands_d1.png
+map_bump A_hands_n1.png
+
+newmtl Model001_Material006
+map_Kd A_head_d2.png
+map_bump A_head_n2.png
+
+newmtl Model001_Material007
+map_Kd A_legs1_d.png
+map_bump A_legs1_n.png
+
+newmtl Model001_Material008
+map_Kd A_teeth_d.png
+map_bump A_teeth_n.png
+
+newmtl Model001_Material009
+map_Kd A_tilingrope1_d.png
+map_bump A_tilingrope1_n.png
+
+newmtl Model001_Material010
+map_Kd A_tilingrope2_d.png
+map_bump A_tilingrope2_n.png
+
+newmtl Model001_Material011
+map_Kd A_tilingset1_d.png
+map_bump A_tilingset1_n.png
+
+newmtl Model001_Material012
+map_Kd A_tilingset2_d.png
+map_bump A_tilingset2_n.png
+
+newmtl Model001_Material013
+map_Kd A_top1_d1.png
+map_bump A_top1_n.png
+
+newmtl Model001_Material014
+map_Kd A_beard_d.png
+map_bump A_beard_n.png
+
+newmtl Model001_Material015
+map_Kd A_beard_d.png
+map_bump A_beard_n.png
+
+newmtl Model001_Material016
+map_Kd A_armchain1_d.png
+map_bump A_armchain1_n.png
+
+newmtl Model001_Material017
+map_Kd A_elashes_d1.png
+map_bump A_elashes_n.png
+
+newmtl Model001_Material018
+map_Kd A_fur_d.png
+map_bump A_fur_n.png
+
+newmtl Model001_Material019
+map_Kd A_hair_d.png
+map_bump A_hair_n.png
+
+newmtl Model001_Material020
+map_Kd A_muffler_d.png
+map_bump A_muffler_n.png
+
+newmtl Model001_Material021
+map_Kd A_tilingbandage2_d.png
+map_bump A_tilingbandage2_n.png
+
+newmtl Model001_Material022
+map_Kd A_tilingchain_d.png
+map_bump A_tilingchain_n.png
+
+newmtl Model001_Material023
+map_Kd A_top2_d.png
+map_bump A_top2_n.png
+
+newmtl Model001_Material024
+map_Kd A_top3_d1.png
+map_bump A_top3_n.png
+
+newmtl Model001_Material025
+map_Kd A_top3_d1.png
+map_bump A_top3_n.png
+

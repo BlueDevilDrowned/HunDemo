@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08a422cec0df1d747ac3e8389458ecc9, type: 3}
+  m_Name: ActionId
+  m_EditorClassIdentifier: Assembly-CSharp::ActionId
+  ActionIds:
+  - name: Idle
+    clip: {fileID: -203655887218126122, guid: 3362ab207c099d7468715e3a0a890bd1, type: 3}
+  - name: Walk
+    clip: {fileID: -203655887218126122, guid: 9c4d8c5e7df11d143bb1f17b4d306063, type: 3}
+  - name: Run
+    clip: {fileID: -203655887218126122, guid: ff155f52d9e8ef742ac094d39abbb889, type: 3}
+  - name: Jump
+    clip: {fileID: -203655887218126122, guid: e3bcd714d0572ff46a179b2f0270cc8c, type: 3}
+  - name: Air
+    clip: {fileID: -4469183485442372851, guid: e3bcd714d0572ff46a179b2f0270cc8c, type: 3}
+  - name: Land
+    clip: {fileID: 9111558908952476143, guid: e3bcd714d0572ff46a179b2f0270cc8c, type: 3}
+  - name: Attack
+    clip: {fileID: -203655887218126122, guid: 7ffddb33a653ae14791a5d195e889d92, type: 3}
+  - name: BlockImpact
+    clip: {fileID: -203655887218126122, guid: bdd426a89fef06240b68cda435c45899, type: 3}
+  - name: NormalImpact
+    clip: {fileID: -203655887218126122, guid: 94a1938fa29154543a36dfe60ef47c4f, type: 3}
